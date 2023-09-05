@@ -2,6 +2,8 @@
 
 Making a stupid simple Elasticsearch client so your project can be smarter!
 
+Test
+
 ## Client
 
 The client provides a one-to-one mapping to the Elasticsearch [API
